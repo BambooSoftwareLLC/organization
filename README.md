@@ -6,7 +6,7 @@ A collection of Bamboo organization documents.
 
 ### Philosophies
 
-- On hiring (coming soon)
+- On hiring ([link](philosophies/hiring.md))
 - On building software ([link](philosophies/building-software.md))
 - On working with clients ([link](philosophies/working-with-clients.md))
 
