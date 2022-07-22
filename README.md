@@ -12,7 +12,7 @@ A collection of Bamboo organization documents.
 
 ### Job Descriptions
 
-- Software Consultant (coming soon)
+- Software Consultant ([link](job-descriptions/software-consultant.md))
 
 ### Pricing
 
