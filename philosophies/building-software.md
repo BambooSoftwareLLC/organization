@@ -6,10 +6,10 @@ Bamboo prefers a pragmatic approach to building software for clients: _software 
 
 ## Highlights
 
-- Prefer simplicity over complexity
-- Prefer broad acceptance tests over fine-grained unit tests, but ALWAYS incorporate tests
-- Prefer native constructs over custom solutions
-- Prefer popular packages over cool ones
+- [Prefer simplicity](#prefer-simplicity) over complexity
+- [Prefer broad acceptance tests](#prefer-broad-acceptance-tests) over fine-grained unit tests, but ALWAYS incorporate tests
+- [Prefer native implementations](#prefer-native-implementations) over custom solutions
+- [Prefer popular packages](#prefer-popular-packages) over cool ones
 
 ## Prefer simplicity
 
@@ -63,7 +63,7 @@ Sometimes, the end users are other developers... sometimes even ourselves. In th
 
 If bugs are found, practice TDD. This is the only reliable way to continually improve the quality of the software.
 
-## Prefer native constructs
+## Prefer native implementations
 
 When the language/framework does something and a third-party package does the same thing, or roughly the same thing, prefer using the native language/framework implementations.
 
