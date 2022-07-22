@@ -8,7 +8,7 @@ A collection of Bamboo organization documents.
 
 - On hiring (coming soon)
 - On building software (coming soon)
-- On working with clients (coming soon)
+- On working with clients ([link](philosophies/working-with-clients.md))
 
 ### Job Descriptions
 
