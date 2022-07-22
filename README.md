@@ -16,4 +16,4 @@ A collection of Bamboo organization documents.
 
 ### Pricing
 
-- Rate sheet (coming soon)
+- Rate sheet ([link](pricing/rate-sheet.md))
