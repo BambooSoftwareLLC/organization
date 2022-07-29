@@ -2,9 +2,11 @@
 
 The cheat code for firms that employ software developers is this:
 
-Pay 1.5x for the developer that's 5x as productive as normal.
+Pay 1.5x for the developer that's 5x as productive as normal. (In many cases, the scaling factor is significantly greater than this)
 
 The reason more employers don't do this is because they don't realize how much more productive great developers can be than even merely "good" ones. But some good developers, and most great ones, know this inside secret.
+
+I'm also very stubborn when it comes to growing locally to protect and develop a local community. To that end, Bamboo will never offshore development services. Taking it a step further, I'm an extremely proud Ohioan and have no intention of hiring outside of the Silicon Heartland.
 
 ## Highlights
 
