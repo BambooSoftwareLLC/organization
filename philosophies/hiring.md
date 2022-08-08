@@ -36,3 +36,9 @@ Payment for talent isn't just in salary, though that's very important. Other thi
 - Freedom to do good work (independence, gained from Bamboo's _ultra-lean_ strategy)
 - Freedom to build an ideal work environment (remote working affords this)
 - Ability to see more direct rewards for high performance (aggressive bonus systems tied to business profitability)
+
+## Prefer Partners to Employees
+
+Partners have skin in the game. Partners have exceptional expertise. Partners have a reason to stick around. Partners come with a built-in "direct rewards for high performance" incentive.
+
+It's better to work alongside a group of excellent and motivated developers than it is to manage a group of excellent developers and try to keep them motivated.
