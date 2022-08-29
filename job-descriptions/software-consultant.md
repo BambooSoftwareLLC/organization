@@ -27,7 +27,7 @@ A successful **Software Consultant** at Bamboo will enjoy:
 - Building DevOps pipelines that are a joy to use as the developer
 - Working in small chunks over short timelines (1-3 days)
 
-In addition,a successful **Software Consultant** at Bamboo will be able to:
+In addition, a successful **Software Consultant** at Bamboo will be able to:
 - Understand and be aware of the business perspectives of our clients
 - Work independently most of the time
 - Collaborate and share best practices (sharing means _offering_ and _using_)
@@ -46,5 +46,17 @@ A rough idea of some skills that are important:
 - Ability to build simple devops pipelines and familiarity with at least one major automated build tool
 
 Must-haves:
-- JavaScript + TypeScript
+- JavaScript + TypeScript + React/Vue/Angular + Node/dotnet
 - Tailwind CSS (Bootstrap is okay to start)
+
+## Word on Certifications
+
+Bamboo's clients need to trust that Bamboo's **Software Consultants** are experts in their field. As such, obtaining and maintaining key certifications is very important. Minimums should include:
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Server+
+- CompTIA Cloud+
+- CompTIA Security+
+- AWS Certified Solutions Architect **_OR_** Microsoft Azure Solutions Architect Expert **_OR_** Google Cloud Certified Professional Cloud Architect
+- Kubernetes
+- Terraform
