@@ -52,11 +52,9 @@ Must-haves:
 ## Word on Certifications
 
 Bamboo's clients need to trust that Bamboo's **Software Consultants** are experts in their field. As such, obtaining and maintaining key certifications is very important. Minimums should include:
-- CompTIA A+
 - CompTIA Network+
 - CompTIA Server+
 - CompTIA Cloud+
 - CompTIA Security+
 - AWS Certified Solutions Architect **_OR_** Microsoft Azure Solutions Architect Expert **_OR_** Google Cloud Certified Professional Cloud Architect
-- Kubernetes
-- Terraform
+- Kubernetes **_OR_** Terraform
