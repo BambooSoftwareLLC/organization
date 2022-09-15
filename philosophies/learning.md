@@ -68,6 +68,7 @@ The gist of what we do in DevOps is Linux + Docker + GitHub Actions. Sometimes w
 - Linux Fundamentals: https://app.pluralsight.com/paths/skill/linux-fundamentals-1
 - Docker Fundamentals: https://app.pluralsight.com/paths/skill/docker-fundamentals-for-developers
 - GitHub Actions: https://app.pluralsight.com/library/courses/devops-github-azure-implementing-cicd-github-actions
+- Bash: https://app.pluralsight.com/paths/skill/shell-scripting-with-bash-and-z-shell
 
 ### 4 - Initial Certifications
 
@@ -107,6 +108,8 @@ Finally, we're ready to dig deeper into the world of DevOps. IaC is a priority, 
 - TeamCity: https://app.pluralsight.com/paths/skill/continuous-integration-with-teamcity
 - Ansible: https://app.pluralsight.com/paths/skill/configuration-management-using-ansible
 - Splunk: https://app.pluralsight.com/paths/skill/splunk-enterprise-certified-admin
+- PowerShell: https://app.pluralsight.com/paths/skill/powershell-7-fundamentals
+- Python: https://app.pluralsight.com/paths/skill/core-python
 
 ### 8 - Professional Certifications & Learning Whatever is Needed
 
