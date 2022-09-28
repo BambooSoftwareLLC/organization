@@ -7,6 +7,7 @@
 - Family Leave
 - Bereavement Leave
 - Retirement
+- Profit Sharing
 - Life Insurance
 - AD&D Insurance
 - Short Term Disability
@@ -65,6 +66,10 @@ Supporting loved ones is one of the most sacred things we can do. If somebody yo
 Starting in January 2023, we will be offering employees a 401(K) plan with the following details (subject to change prior to the plan's finalization):
 - 100% company match on the first 4% of employee contributions
 - Immediate vesting on all employee and employer contributions
+
+## Profit Sharing
+
+A portion of annual company profits will be shared with employees. The amount per employee will be decided on a discretionary basis based on the value that each employee brings to the team.
 
 ## Life Insurance
 
