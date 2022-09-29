@@ -6,15 +6,20 @@ A collection of Bamboo organization documents.
 
 ### Philosophies
 
-- On hiring ([link](philosophies/hiring.md))
-- On building software ([link](philosophies/building-software.md))
-- On working with clients ([link](philosophies/working-with-clients.md))
-- On learning ([link](philosophies/learning.md))
+- [On hiring](philosophies/hiring.md)
+- [On building software](philosophies/building-software.md)
+- [On working with clients](philosophies/working-with-clients.md)
+- [On learning](philosophies/learning.md)
 
 ### Job Descriptions
 
-- Software Consultant ([link](job-descriptions/software-consultant.md))
+- [Software Consultant](job-descriptions/software-consultant.md)
 
 ### Pricing
 
-- Rate sheet ([link](pricing/rate-sheet.md))
+- [Rate sheet](pricing/rate-sheet.md)
+
+### HR
+
+- [Employee Handbook](HR/handbook.md)
+- [Employee Benefits](HR/employee-benefits.md)
