@@ -1,6 +1,6 @@
 # Software Consultant
 
-A **Software Consultant** is much more than just a great developer. He or she is able to manage an entire software project from start to finish, guided only by the client's priorities and vision. This is essential to enable Bamboo to offer a uniquely _ultra-lean_ software development experience.
+A **Software Consultant** is much more than just a great developer. He or she is able to manage an entire software project from start to finish, guided only by the client's priorities and vision. This is essential to enable Bamboo to offer a uniquely _ultra-lean_ software development experience without the bloat of project managers, QAs, scrum leaders, DevOps engineers, coffee fetchers, etc.
 
 What hats does the **Software Consultant** wear?
 - Software architect
@@ -46,15 +46,10 @@ A rough idea of some skills that are important:
 - Ability to build simple devops pipelines and familiarity with at least one major automated build tool
 
 Must-haves:
-- JavaScript + TypeScript + React/Vue/Angular + Node/dotnet
+- C# / .NET
 - Tailwind CSS (Bootstrap is okay to start)
 
-## Word on Certifications
-
-Bamboo's clients need to trust that Bamboo's **Software Consultants** are experts in their field. As such, obtaining and maintaining key certifications is very important. Minimums should include:
-- CompTIA Network+
-- CompTIA Server+
-- CompTIA Cloud+
-- CompTIA Security+
-- AWS Certified Solutions Architect **_OR_** Microsoft Azure Solutions Architect Expert **_OR_** Google Cloud Certified Professional Cloud Architect
-- Kubernetes **_OR_** Terraform
+Nice-to-haves:
+- JavaScript + TypeScript + React/Vue/Angular + Node
+- Cloud certifications
+- Industry certifications (to be defined)
