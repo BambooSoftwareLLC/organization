@@ -74,7 +74,7 @@ When we have questions, we'll usually send you a Slack message. This is asynchro
 
 Every day, we'll have a 5-15 minute meeting between the client and the **Software Consultants**, with the purpose being to demo to you the work that was done the day before, gather feedback on it, and verify that the priorities are properly set by you for next steps. Sometimes, even a meeting isn't necessary and so we instead send quick videos showing a demonstration of the recent changes. Your feedback is appreciated in the form of Slack or email, or if it makes sense, via phone/video chat.
 
-The most important thing is that communication is frequent. Software projects die when there's a giant planning phase up front, after which the devs disappear into their dark holes only to re-emerge with software that is not at all what the client originally expected. Communication is hard, and precise communication is very hard, especially when the scope becomes much larger than _tiny_. By keeping communication frequent for tiny short bursts, we limit the risk of things getting way off track. This significantly reduces wasteful work, enabling us to operate ultra-lean.
+The most important thing is that communication is frequent. Software projects die when there's a giant planning phase up front, after which the devs disappear into their dark holes only to re-emerge with software that is not at all what the client originally expected. Communication is hard, and precise communication is very hard, especially when the scope becomes much larger than _tiny_. By keeping communication frequent for tiny short bursts, we limit the risk of things drifting off track. This significantly reduces wasteful work, enabling us to operate ultra-lean.
 
 ## Rapid Feedback
 
