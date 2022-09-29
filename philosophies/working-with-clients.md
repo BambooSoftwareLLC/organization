@@ -40,7 +40,11 @@ What does this look like, in practice?
 
 #### Will my project take longer to finish with only ONE person working on it at a time?
 
-Surprisingly, no. It has been understood by the software industry for a couple decades now that the building of software cannot be scaled similarly to labor-intensive activities. Instead, adding too many cooks to the kitchen ends up slowing things down and leading to poorer code quality. Experts, in particular, are able to move VERY quickly when left alone. Some of the greatest pieces of software were built by lone experts.
+Surprisingly, no.
+
+Software, especially greenfield software, is more like a baby than a ditch. If it takes 1 man 9 weeks to dig a ditch, 9 men will probably get it done in about 1 week. But you can't get 9 women to incubate 1 baby in 1 month.
+
+It has been understood by the software industry for a couple decades now that the building of software cannot be scaled similarly to labor-intensive activities. Instead, adding too many cooks to the kitchen ends up slowing things down and leading to poorer code quality. Experts, in particular, are able to move VERY quickly when left alone. Some of the greatest pieces of software were built by lone experts.
 
 It also significantly simplifies communication between developers and the client, making that part of the process much more efficient and pleasant.
 
