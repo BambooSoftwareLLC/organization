@@ -50,7 +50,9 @@ It also significantly simplifies communication between developers and the client
 
 #### But what if I want to increase capacity on my project because it's HUGE?
 
-If it's really enormous, then it probably isn't actually a single project to begin with. Let's discuss how we can break it into smaller chunks that can be safely developed in parallel. But FYI, this is rare.
+If it's really enormous, then it probably isn't actually a single project to begin with. Let's discuss how we can break it into smaller chunks that can be safely developed in parallel. We have great relationships with other top-notch development shops and some external individual contractors, and can work together well on truly large projects.
+
+But FYI, this is rare.
 
 #### Aren't software guys super nerds that don't like to talk? How could they ever be effective project managers?
 
