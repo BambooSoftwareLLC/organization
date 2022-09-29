@@ -9,6 +9,7 @@ A collection of Bamboo organization documents.
 - On hiring ([link](philosophies/hiring.md))
 - On building software ([link](philosophies/building-software.md))
 - On working with clients ([link](philosophies/working-with-clients.md))
+- On learning ([link](philosophies/learning.md))
 
 ### Job Descriptions
 
