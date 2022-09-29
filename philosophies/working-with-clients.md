@@ -17,6 +17,7 @@ Other software firms throw a team at you:
 - UI designer
 - DevOps engineer
 - Coffee maker
+- Lead gardener
 - etc.
 
 Bamboo, in contrast, hands you over to an elite pair of **Software Consultants**.
