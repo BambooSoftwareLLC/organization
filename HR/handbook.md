@@ -24,6 +24,14 @@ The goal of these meetings is to check in on how things are going generally. If 
 
 These should be roughly 3-5 bullet points or sentences (or a short Loom video) that describe “WHAT” happened during the day. What did you work on? Were there any highlights? Are you blocked by anything? These summaries are like a condensed Daily Scrum meeting.
 
+#### Daily Standups
+
+These meetings will ideally last for 10-15 mins.  We will use this time to do the following:
+1. Recaps: Go over recaps from previous day to keep everyone up to date on the status of projects
+2. Next Steps: Make sure each team member has 2 or 3 options of what they can work on and accomplish that day
+3. Blocking Points:  If there are roadblocks, concerns or questions about how to accomplish options in #2, they can be addressed here
+4. Learning Review:  This will be a touch base on what has been recently learned in Pluralsight, yesterday's work etc...
+
 #### Dress Code
 
 We’re a tech company, but also a professional organization. We should present ourselves to our clients (and their clients!) as professionals. This coincides with our policy of preferring keeping video on during video meetings with clients (unless you’re the only odd duck with his video still on).
