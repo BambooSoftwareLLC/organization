@@ -15,10 +15,6 @@ A collection of Bamboo organization documents.
 
 - [Software Consultant](job-descriptions/software-consultant.md)
 
-### Pricing
-
-- [Rate sheet](pricing/rate-sheet.md)
-
 ### HR
 
 - [Employee Handbook](HR/handbook.md)
